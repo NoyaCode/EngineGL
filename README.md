@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-This project involves the creation of a **3D video game engine** in C++ using **OpenGL**, but also the development of a simple platformer game with 3D physics using this game engine.
+This project involves the creation of a **3D video game engine** in C++ using **OpenGL**, but also the development of a simple platformer game with **3D physics** using this game engine.
 
 <br />
 
