@@ -2,8 +2,6 @@
 
 ## Project Description:
 
-<br>
-
 This project involves the creation of a **3D video game engine** in C++ using **OpenGL**, but also the development of a simple platformer game with 3D physics using this game engine.
 
 <br />
@@ -17,21 +15,21 @@ This project involves the creation of a **3D video game engine** in C++ using **
 
 ## Features:
 
-**Resource Manager**
+:low_brightness: **Resource Manager**
 - Textures
 - Meshes
 - Shaders
 
-**Lights**
+:low_brightness: **Lights**
 - Directional light
 - Point light
 - Spot light
 
-**Scene Graph**
+:low_brightness: **Scene Graph**
 - GameObjects (Parent - Children)
 - Components (models, colliders, scripts...)
 
-**User Interface** (Editor Mode)
+:low_brightness: **User Interface** (Editor Mode)
 <ul>
 <li>Scene hierarchy
 <ul>
@@ -46,12 +44,12 @@ This project involves the creation of a **3D video game engine** in C++ using **
 <li>Play Button (start game) 
 </ul>
 
-**3D Collisions**
+:low_brightness: **3D Collisions**
 - Box Collider
 - Sphere Collider
 - Capsule Collider
 
-**Options Menu**
+:low_brightness: **Options Menu**
 - Edit game keybinds
 
 <br />
